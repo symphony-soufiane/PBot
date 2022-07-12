@@ -1,0 +1,6 @@
+host: HOST_URL
+
+bot:
+  username: bdk-integration-tests-worker-bot-TEST1
+  privateKey:
+    path: rsa/privatekey.pem
